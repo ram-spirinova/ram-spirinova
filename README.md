@@ -6,13 +6,13 @@
 
 <img align="right" alt = "data analytics" width = "400" src = "https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramvish1997&label=Profile%20views&color=0e75b6&style=flat" alt="ramvish1997" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramvish1997&label=Profile%20views&color=0e75b6&style=flat" alt="ram-spirinova" /> </p>
 
 - 🌱 I’m currently learning **Py Spark**
 
 - 💬 Ask me about **Python, Excel, SQL, Tableau, PowerBI, Machine Learning**
 
-- 📫 How to reach me **ramvishwakarm25565@gmail.com**
+- 📫 How to reach me **ram@spirinova.dev**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Kt-VL43BxNQQM4efU12t90-rBhjP0chP/view?usp=sharing)
 
